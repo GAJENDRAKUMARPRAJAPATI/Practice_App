@@ -1,0 +1,11 @@
+.myform{
+    width: 40%;
+    height: 50%;
+    border: 2px solid;
+    padding: 15px;
+    background-color:darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20vh;
+    border-radius: 10px;
+}
