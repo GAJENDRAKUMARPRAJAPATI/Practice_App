@@ -127,7 +127,7 @@ const Home = () => {
       ))}
     </div>
         </div>
-        <hr />
+        <hr /> 
         <div>
           <h3>List of Books</h3>
           {bookList.data.map((item) => {
